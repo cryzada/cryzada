@@ -1,4 +1,4 @@
-<p style="font-size: 32px;" align="center">Apenas um jovem apaixonado por programação</p>
+<p size="1.5em" style="font-size: 32px;" align="center">Apenas um jovem apaixonado por programação</p>
 
 ### Sobre mim:
 - <img draggable="false" width="18" src="https://media.tenor.com/0-M-_QQY4eQAAAAj/pixel-heart.gif" alt="<3"> JavaScript, Python3
