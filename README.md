@@ -1,6 +1,6 @@
 <h2 align="center">Apenas um jovem apaixonado por programação</h2>
 
-<img align='right' src='https://i.kym-cdn.com/photos/images/original/001/236/322/4ad.gif' width='184'>
+<img align='right' src='https://i.kym-cdn.com/photos/images/original/001/236/322/4ad.gif' width='124'>
 
 ### Sobre mim
 - <img draggable="false" width="18" src="https://media.tenor.com/0-M-_QQY4eQAAAAj/pixel-heart.gif" alt="<3"> JavaScript, Python3
