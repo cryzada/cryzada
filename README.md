@@ -1,3 +1,5 @@
+<p>Apenas um jovem apaixonado por programação</p>
+
 ### Sobre mim:
 - <img draggable="false" width="18" src="https://media.tenor.com/0-M-_QQY4eQAAAAj/pixel-heart.gif" alt="<3"> JavaScript, Python3
 - <img draggable="false" width="18" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-1-1.png" alt="Discord"> cryzada
